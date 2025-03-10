@@ -1,0 +1,15 @@
+JAPON
+
+1 (Jesus) primera pagina, índice, que puedes encontrar en el país, algunas ciudades (opcional), breve introducción.
+2 (Fernanda) segunda página, historia detalles del país, bandera.
+3 (Fernanda) tercera página, cultura tradiciones, comida.
+4 (Natalia) cuarta página, mitos y leyendas (mínimo 2, máximo 6).
+5 (Natalia) quinta página, monumentos (mínimo 2, máximo 6, porque están ahí, historia, etc.
+6 (Jesus) sexta página, sitios turísticos (mínimo 2, máximo 6), que se puede hacer en el lugar, detalles, precios, ubicación.
+
+Nota: No usar inteligencia artificial para la información o imagenes, nisiquiera si los maestros lo autorizarón.
+La hoja de estilo debe de ser igual para la armonia de las páginas (después nos vamos a poner de acuerdo sobre los detalles de la hoja de estilo como color, tipo de letra, etc.)
+
+Tablas: 
+
+Hoja de estilos: 

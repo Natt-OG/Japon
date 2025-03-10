@@ -1,0 +1,39 @@
+@charset "utf-8";
+.tabla {
+    width: 750px;
+    height: 500px;
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    color: #343434;
+    background-color: #DADADA;
+    margin-right: auto;
+    margin-left: auto
+}
+};
+}
+.parrafo {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.texto {
+    text-align: center;
+}
+.derechos {
+    text-align: left;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+
+
+
+.H1 {
+    font-size: 20px;
+}
+.Templo sensoji {
+    width: 100px;
+    height: 100px;
+}
+.Monte Fuji {
+    width: 100px;
+    height: 100px;
+}
